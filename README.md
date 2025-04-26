@@ -1,6 +1,6 @@
 # :man_technologist:Rickson B. Freitas
 <!-- Tag para o logo do LinkedIn que direciona ao perfil -->
-<a href="https://www.linkedin.com/login/pt">
+<a href="https://www.linkedin.com/in/rickson-bernardino-12462534a">
   <img src="https://static.vecteezy.com/system/resources/previews/012/660/862/original/linkedin-logo-on-transparent-isolated-background-free-vector.jpg" alt="Logo do LinkedIn" width="100">
 </a>
 
