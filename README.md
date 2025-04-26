@@ -14,21 +14,6 @@ Developer Software(currently working with React.js and Node.js). Developing scal
 
 > 
 
-<details>
-  <summary> <b> Know more about me </b> <i>(Click here to expand)</i> </summary>
-  <br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
-  </a>
-  
----
-  
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=lucasgdb" alt="Trophies" />
-    </a>
-  </p>
 
   ## Some technologies
 
