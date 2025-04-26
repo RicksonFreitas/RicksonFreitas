@@ -6,7 +6,7 @@
 
 ## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-Full-stack Developer (currently working with React.js and Node.js). Developing scalable and robust solutions.
+Developer Software(currently working with React.js and Node.js). Developing scalable and robust solutions.
 
 - :Student: Estudante de ADS (Currently, Third Class)
 - :Meu_mundo: Stack: ReactJS, NodeJS, React Native
