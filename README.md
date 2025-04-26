@@ -1,7 +1,7 @@
 # :man_technologist:Rickson B. Freitas
 <!-- Tag para o logo do LinkedIn que direciona ao perfil -->
-<a href="URL_DO_SEU_PERFIL_LINKEDIN">
-  <img src="URL_DO_LOGO_DO_LINKEDIN" alt="Logo do LinkedIn" width="100">
+<a href="https://www.linkedin.com/login/pt">
+  <img src="https://static.vecteezy.com/system/resources/previews/012/660/862/original/linkedin-logo-on-transparent-isolated-background-free-vector.jpg" alt="Logo do LinkedIn" width="100">
 </a>
 
 <!-- Tag para o logo do Gmail que direciona ao perfil -->
